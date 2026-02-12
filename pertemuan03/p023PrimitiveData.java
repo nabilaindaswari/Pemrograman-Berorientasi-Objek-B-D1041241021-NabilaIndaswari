@@ -4,7 +4,7 @@ NIM : D1041241021
 
 */
 
-
+package pertemuan03;
 
 public class p023PrimitiveData {
     public static void main(String[] args)
