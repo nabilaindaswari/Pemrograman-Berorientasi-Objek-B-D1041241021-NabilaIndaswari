@@ -20,6 +20,6 @@ public class p022WorkingVariable {
         angka = 25;
 
         //Menampilkan nilai setelah perubahan
-        System.out.println("Nilai awal angka: " + angka);
+        System.out.println("Nilai angka setelah diubah: " + angka);
     }
 }
