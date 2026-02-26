@@ -2,8 +2,9 @@ package pertemuan04;
 /*
 Nama : Nabila Indaswari
 NIM : D1041241021
-
+Kelas : B
 */
+
 
 public class p042OperatorAritmatika {
     public static void main(String[] args)

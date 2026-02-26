@@ -3,8 +3,9 @@ package tugasPertemuan03;
 /*
 Nama : Nabila Indaswari
 NIM : D1041241021
-
+Kelas : B
 */
+
 
 
 public class LatihDataMahasiswa {

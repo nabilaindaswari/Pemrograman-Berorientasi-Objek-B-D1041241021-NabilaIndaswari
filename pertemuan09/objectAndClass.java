@@ -2,8 +2,9 @@ package pertemuan09;
 /*
 Nama : Nabila Indaswari
 NIM : D1041241021
-
+Kelas : B
 */
+
 
 class mobil {
     String merk;
