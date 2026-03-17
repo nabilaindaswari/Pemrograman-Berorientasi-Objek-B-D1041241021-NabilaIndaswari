@@ -5,7 +5,7 @@ Kelas : B
 */
 
 
-package tugaspertemuan04;
+package tugasPertemuan04;
 
 public class LatihanCounter {
     public static void main(String[] args)

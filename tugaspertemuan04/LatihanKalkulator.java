@@ -6,7 +6,7 @@ Kelas : B
 
 
 
-package tugaspertemuan04;
+package tugasPertemuan04;
 
 public class LatihanKalkulator {
     public static void main(String[] args)
